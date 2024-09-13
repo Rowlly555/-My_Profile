@@ -15,7 +15,7 @@ This is a personal profile website created for the August Cohort Portfolio Chall
 ## How to View the Project
 To view my portfolio website:
 1. Clone this repository or download the zip file.
-2. Open the `index.html` file in a web browser.
+2. Open the `mypage.html` file in a web browser.
 
 ## Technologies Used
 - **HTML**: Structure of the website.
